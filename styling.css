@@ -1,0 +1,19 @@
+/* styling.css */
+
+h1 {
+	color: #0AE17F;
+	text-align: center;
+}
+
+p {
+	color: white;
+	text-align: center;
+}
+
+button {
+	color: #0AE17F;
+	width: 1000px;
+	height: 50px
+}
+
+
